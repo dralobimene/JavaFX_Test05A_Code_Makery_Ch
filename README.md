@@ -20,4 +20,5 @@ into src folder: 4 packages
   - PersonEditDialog.fxml
   - PersonOverview.fxml
   - RootLayout.fxml
+  
 module-info.java
